@@ -2,3 +2,10 @@ This
 is
 four
 file
+
+hello 
+krish 
+is 
+here
+
+try rebase -i and this is line is edited
